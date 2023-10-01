@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(hands-7064414_1280.jpg);
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+input {
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+}
+
+button {
+    border: 20px;
+    background-image: url(hands-7064414_1280.jpg);
+}
+
+#img {
+    position: absolute;
+    left: 0px;
+    bottom: 1px;
+    width: 350px;
+    height: 50px;
+}
+
+#worte {
+    position: absolute;
+    bottom: 60px;
+}

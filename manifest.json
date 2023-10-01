@@ -1,0 +1,9 @@
+{
+    "name": "Deutsch in Ukrainisch",
+    "short_name": "DEUK",
+    "theme_color": "#e9ff00",
+    "background_color": "#0018ff",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
